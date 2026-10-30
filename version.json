@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 11,
-  "latestVersionName": "2.4.3",
-  "minVersionCode": 11,
-  "apkUrl": "https://github.com/vpns6694-cyber/abbadi-translator-updates/releases/download/v2.4.3/ABBADI-Translator-2.4.3.apk",
-  "sha256": "73d773113e9f4813ca72a30d8a7d3397641725145cf766e6d7df76f615e5dbdf",
+  "latestVersionCode": 12,
+  "latestVersionName": "2.4.4",
+  "minVersionCode": 12,
+  "apkUrl": "https://github.com/vpns6694-cyber/abbadi-translator-updates/releases/download/v2.4.4/ABBADI-Translator-2.4.4.apk",
+  "sha256": "cc8acf8575d5717d49c8808ecb610399a7783c9876780fbd4da667ac16f1c7d8",
   "certSha256": "e89929dbc3744c0ec567d52ec301c7f50b956fe7094a1a56d7ea9848ea8afc93",
   "changelog": {
-    "ar": "رجوع لسلوك نسخة 2.3.0 الشغّالة، فحص التحديث عند كل فتح، وزر «التحقق من التحديثات» في «حول».",
-    "en": "Back to the working 2.3.0 behaviour, update check on every open, and a 'Check for updates' button in About."
+    "ar": "الويدجت شفاف بالكامل وزر الإيقاف يوقف الترجمة بلمسة وحدة، الحالة الحقيقية للسماعات والترجمة، وضع الاستماع: أي لغة ← عربي فقط وبدون تكرار، ورسائل خطأ أوضح.",
+    "en": "Fully transparent widget, one-tap stop, real status; Listen mode: any language to Arabic only, no repeats; clearer errors."
   }
 }
