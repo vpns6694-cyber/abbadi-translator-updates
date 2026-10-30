@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 10,
-  "latestVersionName": "2.4.2",
-  "minVersionCode": 10,
-  "apkUrl": "https://github.com/vpns6694-cyber/abbadi-translator-updates/releases/download/v2.4.2/ABBADI-Translator-2.4.2.apk",
-  "sha256": "580b9908948bc7c0ba5984dc49d13f4148ff27498851e634db3568ec3660c70a",
+  "latestVersionCode": 11,
+  "latestVersionName": "2.4.3",
+  "minVersionCode": 11,
+  "apkUrl": "https://github.com/vpns6694-cyber/abbadi-translator-updates/releases/download/v2.4.3/ABBADI-Translator-2.4.3.apk",
+  "sha256": "73d773113e9f4813ca72a30d8a7d3397641725145cf766e6d7df76f615e5dbdf",
   "certSha256": "e89929dbc3744c0ec567d52ec301c7f50b956fe7094a1a56d7ea9848ea8afc93",
   "changelog": {
-    "ar": "الويدجت بدون أي خلفية في كل الأحجام والحالات، وإصلاح بقاء \"جارٍ الاتصال…\" والسماعات متصلة.",
-    "en": "Widgets have no background in every size and state; fixed the widget staying on \"Connecting…\" while the earbuds are connected."
+    "ar": "رجوع لسلوك نسخة 2.3.0 الشغّالة، فحص التحديث عند كل فتح، وزر «التحقق من التحديثات» في «حول».",
+    "en": "Back to the working 2.3.0 behaviour, update check on every open, and a 'Check for updates' button in About."
   }
 }
