@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "2.3.1",
-  "minVersionCode": 7,
-  "apkUrl": "https://github.com/vpns6694-cyber/abbadi-translator-updates/releases/download/v2.3.1/ABBADI-Translator-2.3.1.apk",
-  "sha256": "c5377737131f21f2ecf25728bad4bdeff29d857869707028e32b317f5a99458e",
+  "latestVersionCode": 8,
+  "latestVersionName": "2.4.0",
+  "minVersionCode": 8,
+  "apkUrl": "https://github.com/vpns6694-cyber/abbadi-translator-updates/releases/download/v2.4.0/ABBADI-Translator-2.4.0.apk",
+  "sha256": "57474f2ba8627b9d030b6ecc5bdbc55e26c4d2609110ca442f96a8d318629574",
   "certSha256": "e89929dbc3744c0ec567d52ec301c7f50b956fe7094a1a56d7ea9848ea8afc93",
   "changelog": {
-    "ar": "إصلاح انهيار التطبيق عند العرض على الشاشة الخلفية في Galaxy Z Fold، وإغلاق اتصال البلوتوث بشكل صحيح.",
-    "en": "Fixed crash when presenting on the Galaxy Z Fold rear screen; Bluetooth connection now closes cleanly."
+    "ar": "عدّادات بطارية دائرية جديدة، زر إيقاف يعمل في وضع الاستماع والويدجت، ويدجت بدون خلفية بتحديث مباشر، أيقونة إشعار جديدة، ترجمة أسرع، ودعم Android 17.",
+    "en": "New round battery gauges, a working Stop in Listen mode and widgets, transparent live widgets, new notification icon, faster translation, Android 17 support."
   }
 }
